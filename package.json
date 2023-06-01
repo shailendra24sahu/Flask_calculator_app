@@ -1,0 +1,22 @@
+{
+  "name": "flask-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.py",
+  "scripts": {
+    "start": "flask app.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shailendra24sahu/Flask_calculator_app.git"
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "express": ""
+  }
+}
